@@ -4,7 +4,6 @@
 
 To install and run the Canon printer Setup, you can follow the instructions given below. The **[Canon.com/ijsetup](https://canoncomijsetupp.github.io/)** can be used for printing, scanning, network setup, and many more. Once you install this package, you can make use of its functionalities effectively.
 
-
 ##  Get Help to Locate Canon Printer Model Number
 
 Before you begin **[Canon.com/ijsetup](https://canoncomijsetupp.github.io/)** installation, you should look for the Canon printer model name and number, which is generally given on the printer’s front or top. Then you can visit **Canon.com/ijsetup** to enter the **Canon printer model number** to start with Canon printer.

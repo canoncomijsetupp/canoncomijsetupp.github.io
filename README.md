@@ -1,4 +1,4 @@
-##  ij.start.canon - Set Up Canon IJ Printer
+# ij.start.canon
 
 [![ij.start.canon](get_started-button-png.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
